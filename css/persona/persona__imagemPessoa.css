@@ -1,0 +1,11 @@
+.persona__imagemPessoa {
+    background-image: url(../../img/pessoa.png);
+    background-size: contain;
+    background-position: center;
+    border-radius: 50%;
+    height: 323px;
+    margin-left: 219px;
+    margin-top: 70px;
+    position: absolute;
+    width: 323px;
+}

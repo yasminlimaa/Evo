@@ -1,0 +1,9 @@
+.persona__elipseRoxaGrande {
+    background-image: url(../../img/elipseRoxaGrande.svg);
+    background-size: contain;
+    height: 16px;
+    margin-left: 285px;
+    margin-top: 418px;
+    position: absolute;
+    width: 200px;
+}
