@@ -1,7 +1,4 @@
-.persona__imagens {
-    background-color: #5E96EC;
-    border-top-right-radius: 300px;
-    border-bottom-right-radius: 300px;
+.persona__imagens { 
     width: 50%;
     height: 100%;
 }
