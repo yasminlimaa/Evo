@@ -1,0 +1,9 @@
+.persona__pokebola {
+    background-image: url(../../img/pokebola.png);
+    background-size: contain;
+    height: 90px;
+    margin-left: 116px;
+    margin-top: 347px;
+    position: absolute;
+    width: 90px;
+}

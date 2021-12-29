@@ -1,0 +1,9 @@
+.persona__elipseRoxaPequena {
+    background-image: url(../../img/elipseRoxaPequena.png);
+    background-size: contain;
+    height: 6px;
+    margin-left: 128px;
+    margin-top: 422px;
+    position: absolute;
+    width: 70px;
+}
