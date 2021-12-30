@@ -1,6 +1,7 @@
 .persona {
     background-color: #FFFFFF;
-    height: 485px; /*485px*/
+    display: flex;
+    height: 485px;
     width: 100%;
 }
 
