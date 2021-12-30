@@ -2,7 +2,8 @@
     background-image: url(../../img/elipseAzul.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    height: 100%;
+    float: left;
+    height: 485px;
     position: relative; 
     width: 48.5%;
 }
