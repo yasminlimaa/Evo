@@ -1,0 +1,8 @@
+.horaDeComecar {
+    clear:both;
+    height: 756px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
