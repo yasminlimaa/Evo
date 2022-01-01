@@ -1,0 +1,55 @@
+.persona__conteudo {
+    color: #150035;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    height: 78%;
+    left: 72px; /*72*/
+    line-height: 30px;
+    margin-top: 40px;
+    position: relative;
+    width: 40%; /*531*/
+}
+
+@media screen and (max-width:1350px){
+    .persona__conteudo {
+        font-size: 18px;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width:1150px){
+    .persona__conteudo {
+        font-size: 14px;
+        line-height: 25px;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width:900px){
+    .persona__conteudo {
+       clear: both;
+       font-size: 20px;
+       left: 0;
+       line-height: 30px;
+       width: 100%;
+    }
+}
+
+
+@media screen and (max-width:575px){
+    .persona__conteudo {
+       font-size: 16px;
+       line-height: 25px;
+    }
+}
+
+@media screen and (max-width:420px){
+    .persona__conteudo {
+       font-size: 12px;
+    }
+}

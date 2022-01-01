@@ -1,0 +1,44 @@
+.persona__imagens {
+    background-image: url(../../img/persona.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+    height: 100%; /*485*/
+    position: relative; 
+    width: 50%;
+}
+
+@media screen and (max-width:900px){
+    .persona__imagens {
+        background-size: contain;
+        background-position: top left;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:700px){
+    .persona__imagens {
+       height: 80%;
+    }
+}
+
+@media screen and (max-width:500px){
+    .persona__imagens {
+       height: 60%;
+    }
+}
+
+@media screen and (max-width:400px){
+    .persona__imagens {
+       height: 50%;
+    }
+}
+
+@media screen and (max-width:300px){
+    .persona__imagens {
+       height: 40%;
+    }
+}
+
+
+
