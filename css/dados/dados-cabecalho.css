@@ -1,0 +1,28 @@
+@media screen and (min-width: 0) {
+    .dados__cabecalho{
+        margin-bottom: 1rem;
+        text-align: justify;
+        text-align-last: center;
+        width: 100%;
+        max-width: 1024px;
+    }
+    .dados__cabecalho__titulo{
+        font-size: 30px;
+        letter-spacing: 0.015em;
+        line-height: 113%;
+        margin-bottom: 2rem;
+
+    }
+    .dados__cabecalho__info{
+        font-size: 20px;
+        font-style: normal;
+        font-weight: normal;
+        letter-spacing: -0.02em;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .dados__cabecalho__info{
+        max-width: 759px;
+        margin: auto;
+    }   
+}
