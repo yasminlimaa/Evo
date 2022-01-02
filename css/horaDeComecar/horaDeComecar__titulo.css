@@ -7,3 +7,16 @@
     margin-top: 115px; /*110*/
     text-align: center;
 }
+
+@media screen and (max-width: 1350px) and (min-width: 900px) {
+    .horaDeComecar__titulo {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .horaDeComecar__titulo {
+        margin-top: 10px;
+    }
+}
+

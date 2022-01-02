@@ -8,5 +8,16 @@
     margin: 0 auto;
     margin-top: 29px;
     text-align: center;
-    width: 921px;
+    width: 70%;
+}
+
+@media screen and (max-width: 400px) {
+    .horaDeComecar__descricao {
+        text-align: left;
+    }
+}
+@media screen and (max-width: 280px) {
+    .horaDeComecar__descricao {
+        text-align: center;
+    }
 }

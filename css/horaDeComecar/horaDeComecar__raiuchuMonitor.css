@@ -1,0 +1,26 @@
+.horaDeComecar__raiuchuMonitor {
+    background-image: url(../../img/raiuchuMonitor.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 322px;
+    margin: 0 auto;
+    margin-bottom: 135px;
+    margin-top: 73px;
+    text-align: center;
+    width: 80%;
+}
+
+
+@media screen and (max-width: 500px) {
+    .horaDeComecar__raiuchuMonitor {
+        margin-bottom: 60px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .horaDeComecar__raiuchuMonitor {
+        margin-top: 150px;
+    }
+}
+
